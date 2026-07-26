@@ -1,0 +1,110 @@
+<svg viewBox="0 0 900 656" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace">
+<rect width="900" height="656" fill="#0B1526" rx="6"/>
+<defs><filter id="g" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="3.2"/></filter></defs>
+<text x="48" y="52" fill="#8FA0B8" font-size="11" letter-spacing="2.4">IMMC 2026 · URBAN RESILIENCE &amp; SUSTAINABILITY INDEX</text>
+<text x="48" y="82" fill="#E8EDF5" font-size="23" font-weight="600" font-family="-apple-system, 'Segoe UI', sans-serif">Twenty cities, one scale.</text>
+<rect x="60" y="280.1" width="780" height="152.3" fill="#111B2E"/>
+<line x1="60" y1="280.1" x2="840" y2="280.1" stroke="#24314A" stroke-width="1" stroke-dasharray="4 5"/>
+<line x1="60" y1="432.4" x2="840" y2="432.4" stroke="#24314A" stroke-width="1" stroke-dasharray="4 5"/>
+<text x="240" y="352.2" fill="#8FA0B8" font-size="11.5" text-anchor="middle">no city lands here</text>
+<text x="240" y="370.2" fill="#8FA0B8" font-size="10" text-anchor="middle" opacity=".75">0.432 → 0.548 · the gap between the two worlds</text>
+<line x1="450" y1="106" x2="450" y2="554" stroke="#24314A" stroke-width="1.2"/>
+<line x1="443" y1="540.0" x2="450" y2="540.0" stroke="#8FA0B8" stroke-width="1"/>
+<text x="437" y="543.5" fill="#8FA0B8" font-size="10" text-anchor="end">0.35</text>
+<line x1="443" y1="474.4" x2="450" y2="474.4" stroke="#8FA0B8" stroke-width="1"/>
+<text x="437" y="477.9" fill="#8FA0B8" font-size="10" text-anchor="end">0.40</text>
+<line x1="443" y1="408.8" x2="450" y2="408.8" stroke="#8FA0B8" stroke-width="1"/>
+<text x="437" y="412.2" fill="#8FA0B8" font-size="10" text-anchor="end">0.45</text>
+<line x1="443" y1="343.1" x2="450" y2="343.1" stroke="#8FA0B8" stroke-width="1"/>
+<text x="437" y="346.6" fill="#8FA0B8" font-size="10" text-anchor="end">0.50</text>
+<line x1="443" y1="277.5" x2="450" y2="277.5" stroke="#8FA0B8" stroke-width="1"/>
+<text x="437" y="281.0" fill="#8FA0B8" font-size="10" text-anchor="end">0.55</text>
+<line x1="443" y1="211.9" x2="450" y2="211.9" stroke="#8FA0B8" stroke-width="1"/>
+<text x="437" y="215.4" fill="#8FA0B8" font-size="10" text-anchor="end">0.60</text>
+<line x1="443" y1="146.2" x2="450" y2="146.2" stroke="#8FA0B8" stroke-width="1"/>
+<text x="437" y="149.8" fill="#8FA0B8" font-size="10" text-anchor="end">0.65</text>
+<path d="M 232 600.0 L 432 520.3 L 444.8 520.3" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="520.3" r="6.7" fill="#C89044" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="520.3" r="3.2" fill="#C89044"/>
+<text x="220" y="604.0" fill="#E8EDF5" font-size="10.5" text-anchor="end">Manila <tspan fill="#8FA0B8">.365</tspan></text>
+<path d="M 232 581.0 L 432 505.9 L 444.7 505.9" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="505.9" r="6.9" fill="#C89044" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="505.9" r="3.3" fill="#C89044"/>
+<text x="220" y="585.0" fill="#E8EDF5" font-size="10.5" text-anchor="end">Nairobi <tspan fill="#8FA0B8">.376</tspan></text>
+<path d="M 232 562.0 L 432 501.9 L 444.7 501.9" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="501.9" r="7.0" fill="#C89044" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="501.9" r="3.3" fill="#C89044"/>
+<text x="220" y="566.0" fill="#E8EDF5" font-size="10.5" text-anchor="end">Lagos <tspan fill="#8FA0B8">.379</tspan></text>
+<path d="M 232 543.0 L 432 500.6 L 444.7 500.6" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="500.6" r="7.0" fill="#C89044" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="500.6" r="3.3" fill="#C89044"/>
+<text x="220" y="547.0" fill="#E8EDF5" font-size="10.5" text-anchor="end">Cairo <tspan fill="#8FA0B8">.380</tspan></text>
+<path d="M 232 524.0 L 432 492.8 L 444.6 492.8" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="492.8" r="7.1" fill="#C89044" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="492.8" r="3.4" fill="#C89044"/>
+<text x="220" y="528.0" fill="#E8EDF5" font-size="10.5" text-anchor="end">São Paulo <tspan fill="#8FA0B8">.386</tspan></text>
+<path d="M 232 505.0 L 432 487.5 L 444.6 487.5" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="487.5" r="7.2" fill="#C89044" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="487.5" r="3.4" fill="#C89044"/>
+<text x="220" y="509.0" fill="#E8EDF5" font-size="10.5" text-anchor="end">Jakarta <tspan fill="#8FA0B8">.390</tspan></text>
+<path d="M 232 486.0 L 432 486.2 L 444.6 486.2" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="486.2" r="7.2" fill="#C89044" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="486.2" r="3.4" fill="#C89044"/>
+<text x="220" y="490.0" fill="#E8EDF5" font-size="10.5" text-anchor="end">Mexico City <tspan fill="#8FA0B8">.391</tspan></text>
+<path d="M 232 467.0 L 432 477.0 L 444.5 477.0" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="477.0" r="7.4" fill="#C89044" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="477.0" r="3.5" fill="#C89044"/>
+<text x="220" y="471.0" fill="#E8EDF5" font-size="10.5" text-anchor="end">Mumbai <tspan fill="#8FA0B8">.398</tspan></text>
+<path d="M 232 448.0 L 432 462.6 L 444.4 462.6" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="462.6" r="7.6" fill="#C89044" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="462.6" r="3.6" fill="#C89044"/>
+<text x="220" y="452.0" fill="#E8EDF5" font-size="10.5" text-anchor="end">Bangkok <tspan fill="#8FA0B8">.409</tspan></text>
+<path d="M 232 429.0 L 432 432.4 L 444.2 432.4" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="432.4" r="8.0" fill="#C89044" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="432.4" r="3.8" fill="#C89044"/>
+<text x="220" y="433.0" fill="#E8EDF5" font-size="10.5" text-anchor="end">Buenos Aires <tspan fill="#8FA0B8">.432</tspan></text>
+<path d="M 668 373.9 L 468 280.1 L 456.9 280.1" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="280.1" r="10.2" fill="#F5B942" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="280.1" r="4.9" fill="#F5B942"/>
+<text x="680" y="377.9" fill="#E8EDF5" font-size="11.5" text-anchor="start">New York <tspan fill="#8FA0B8">.548</tspan></text>
+<path d="M 668 346.9 L 468 226.3 L 457.2 226.3" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="226.3" r="11.0" fill="#F5B942" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="226.3" r="5.2" fill="#F5B942"/>
+<text x="680" y="350.9" fill="#E8EDF5" font-size="11.5" text-anchor="start">London <tspan fill="#8FA0B8">.589</tspan></text>
+<path d="M 668 319.9 L 468 218.4 L 457.3 218.4" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="218.4" r="11.1" fill="#F5B942" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="218.4" r="5.3" fill="#F5B942"/>
+<text x="680" y="323.9" fill="#E8EDF5" font-size="11.5" text-anchor="start">Berlin <tspan fill="#8FA0B8">.595</tspan></text>
+<path d="M 668 292.9 L 468 214.5 L 457.3 214.5" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="214.5" r="11.2" fill="#F5B942" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="214.5" r="5.3" fill="#F5B942"/>
+<text x="680" y="296.9" fill="#E8EDF5" font-size="11.5" text-anchor="start">Paris <tspan fill="#8FA0B8">.598</tspan></text>
+<path d="M 668 265.9 L 468 213.2 L 457.3 213.2" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="213.2" r="11.2" fill="#F5B942" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="213.2" r="5.3" fill="#F5B942"/>
+<text x="680" y="269.9" fill="#E8EDF5" font-size="11.5" text-anchor="start">Sydney <tspan fill="#8FA0B8">.599</tspan></text>
+<path d="M 668 238.9 L 468 194.8 L 457.5 194.8" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="194.8" r="11.5" fill="#F5B942" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="194.8" r="5.5" fill="#F5B942"/>
+<text x="680" y="242.9" fill="#E8EDF5" font-size="11.5" text-anchor="start">Tokyo <tspan fill="#8FA0B8">.613</tspan></text>
+<path d="M 668 211.9 L 468 192.2 L 457.5 192.2" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="192.2" r="11.5" fill="#F5B942" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="192.2" r="5.5" fill="#F5B942"/>
+<text x="680" y="215.9" fill="#E8EDF5" font-size="11.5" text-anchor="start">Toronto <tspan fill="#8FA0B8">.615</tspan></text>
+<path d="M 668 184.9 L 468 156.8 L 457.7 156.8" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="156.8" r="12.0" fill="#F5B942" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="156.8" r="5.7" fill="#F5B942"/>
+<text x="680" y="188.9" fill="#E8EDF5" font-size="11.5" text-anchor="start">Zurich <tspan fill="#8FA0B8">.642</tspan></text>
+<path d="M 668 157.9 L 468 156.8 L 457.7 156.8" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="156.8" r="12.0" fill="#F5B942" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="156.8" r="5.7" fill="#F5B942"/>
+<text x="680" y="161.9" fill="#E8EDF5" font-size="11.5" text-anchor="start">Seoul <tspan fill="#8FA0B8">.642</tspan></text>
+<path d="M 668 130.9 L 468 144.9 L 457.8 144.9" fill="none" stroke="#24314A" stroke-width=".8"/>
+<circle cx="450" cy="144.9" r="12.2" fill="#F5B942" opacity=".30" filter="url(#g)"/>
+<circle cx="450" cy="144.9" r="5.8" fill="#F5B942"/>
+<text x="680" y="134.9" fill="#E8EDF5" font-size="11.5" text-anchor="start">Stockholm <tspan fill="#8FA0B8">.651</tspan></text>
+<text x="220" y="624" fill="#8FA0B8" font-size="10.5" text-anchor="end" letter-spacing="1.6">10 DEVELOPING</text>
+<text x="680" y="107.1" fill="#8FA0B8" font-size="10.5" letter-spacing="1.6">10 DEVELOPED</text>
+<text x="48" y="634" fill="#8FA0B8" font-size="10.5">scores from our Fig. 7 · ANP × CRITIC weights · RSR synthesis · three indicators read from nighttime lights</text>
+<text x="852" y="634" fill="#8FA0B8" font-size="10.5" text-anchor="end">IMMC26569116</text>
+</svg>
