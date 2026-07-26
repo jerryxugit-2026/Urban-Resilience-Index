@@ -1,4 +1,4 @@
-# Urban-Resilience-Index
+# Research-Urban-Resilience-Index
 
 URSI: one scale for how well twenty very different cities would hold up
 under climate, health and economic shocks.
