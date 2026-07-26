@@ -71,9 +71,11 @@ years won't dissolve.
 
 ## Files
 
+**[Full submission (PDF, 21 pp.) →](paper/immc26569116-cities-under-pressure.pdf)**
+
 ```
 assets/   the scale graphic + Figure 7 from the submission
-paper/    full submission (IMMC26569116, 21 pp.)    [pending team's ok]
+paper/    full submission, IMMC26569116
 ```
 
 ---
