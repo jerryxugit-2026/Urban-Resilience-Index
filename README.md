@@ -3,8 +3,9 @@
 URSI: one scale for how well twenty very different cities would hold up
 under climate, health and economic shocks.
 
-IMMC 2026 (International Mathematical Modeling Challenge) · team of 4 · no award
-My part: designed the complete 15-indicator system; contributed to the modeling.
+IMMC 2026 (International Mathematical Modeling Challenge) · team of 4
+Second Prize, Greater China round (中华赛二等奖)
+My part: the complete 15-indicator system and the hybrid ANP × CRITIC weighting design.
 
 ![Twenty cities placed on a single 0-to-1 URSI scale as amber city lights on a night-navy field. Ten developing cities cluster between 0.365 and 0.432; ten developed cities cluster between 0.548 and 0.651; the band between is empty and labeled "no city lands here."](assets/twenty-cities.svg)
 
@@ -65,9 +66,9 @@ years won't dissolve.
   hospitals while its floodplain fills up.
 - R² = 0.689 out of sample leaves a third of the variance unexplained —
   fine for direction-of-travel, not for ranking neighbors.
-- We didn't place at IMMC 2026. The indicator system is the part I'd
-  defend anywhere; the write-up needed more time than the contest window
-  gave us.
+- Second Prize in the Greater China round, not the international one. The
+  indicator system is the part I'd defend anywhere; the write-up needed
+  more time than the contest window gave us.
 
 ## Files
 
