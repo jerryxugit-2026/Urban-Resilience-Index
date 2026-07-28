@@ -79,6 +79,10 @@ assets/   the scale graphic + Figure 7 from the submission
 paper/    full submission, IMMC26569116
 ```
 
+*Dates, plainly: this repository was assembled in July 2026. The modelling
+itself happened in the IMMC 2026 contest cycle, in late 2025. Commit dates
+mark the archiving, not the contest.*
+
 ---
 
 *One of four directions on [my profile](https://github.com/jerryxugit-2026) —
